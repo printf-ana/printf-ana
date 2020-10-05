@@ -6,6 +6,5 @@ Oie! 👋👋👋👋
 <br/>-💻 Eu atuo como estágiaria na minha faculdade, nas disciplinas de Desenvolvimento Web e Arquitetura de Computadores. 
 <br/>-💻 Além disso, eu também sou pesquisadora na área da Robótica Educacional, e na área de Direitos Humanos.
 
-<br/>-💻 Um grande forte meu, é o Inglês, e por isso estou a procura de repositórios que aceitem traduções pra melhorar a comunidade...
 
 <br/><br/>💬 Você pode me contatar através do meu Linkedin: https://www.linkedin.com/in/ana-carolina-dias-goulart-86b06b173/ 📷 Ou através do meu Instagram: @print_ana
