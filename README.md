@@ -4,6 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/printf-ana)](https://github.com/printf-ana)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-dias-goulart-86b06b173/)](https://www.linkedin.com/in/ana-carolina-dias-goulart-86b06b173/)
 [![Dev.To Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/print_ana)](https://dev.to/print_ana)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/print-ana)](https://t.me/print-ana)
 
 </p>
 
