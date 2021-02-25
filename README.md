@@ -16,8 +16,7 @@
   <br/>
 </p>
 <h1 align='center'>
-  <b>💻 Programadora Front-end Jr. e Web-Designer </b>
-  <b>💻 20 anos </b>
+  <b>💻 Programadora Front-end Jr. e Web-Designer </b> <br>
   <b>💻 Licenciatura em Computação </b>
   </h1>
 
