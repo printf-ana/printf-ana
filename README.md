@@ -16,7 +16,9 @@
   <br/>
 </p>
 <h1 align='center'>
-  <b>💻 Ana Carolina, Programadora Front-end Jr., 20 anos, Licenciatura em Computação. </b>
+  <b>💻 Programadora Front-end Jr. e Web-Designer </b>
+  <b>💻 20 anos </b>
+  <b>💻 Licenciatura em Computação </b>
   </h1>
 
 <p align='center'>
