@@ -22,14 +22,12 @@
 
 ```js
 function Aninha () {
-    
-const mySelf = {
+  const mySelf = {
     name: "Ana Carolina",
     username: "printf-ana",
     location: "Rio de Janeiro, Brazil",
     web: "In Progress..."
-} 
-
+  } 
 }
 ```
 
